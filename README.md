@@ -1,4 +1,4 @@
-Convert integers between bases
+Convert integers between bases. builds on osx & debian
 
 
 $ ./ntob -h
