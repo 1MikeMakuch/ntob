@@ -11,6 +11,7 @@ Input base defaults to 10. Bases beyond 16 use the alphabet as you'd expect.
 
 -1 or -2 calculate 1s or 2s complement
 
+```
 Examples:
 
 $ ntob -o 2 -n 10             # convert 10 to binary
@@ -31,3 +32,4 @@ Z
 $ ntob -o 36 -n  1767707668033969
 HELLOWORLD
 
+```
